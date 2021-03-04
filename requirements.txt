@@ -1,5 +1,7 @@
 django
 djangorestframework
+django-heroku
 drf-yasg
+gunicorn
 pyjwt
 wheel
