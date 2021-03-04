@@ -1,6 +1,7 @@
 django
 djangorestframework
 django-heroku
+django-cors-headers
 drf-yasg
 gunicorn
 pyjwt
